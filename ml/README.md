@@ -5,11 +5,7 @@ Change configure at `src/config/classifier.py`
 ```
 cd ml
 export PYTHONPATH=`pwd`
-pip install requirements.txt
-```
-Then split train/test data
-```
-python 
+pip install -r requirements.txt
 ```
 ## Training k_fold
 ```
