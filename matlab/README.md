@@ -1,7 +1,7 @@
 # Simulation MDS-Data
 
 ![image](/images/fig_mds_process.png)
-## Administrative
+## Prerequistes
 To run matlab code, make sure run these commands
 ```
 cd matlab
